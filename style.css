@@ -1,0 +1,100 @@
+body{
+    background-image: url("pictures/background_image.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#p1{
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 650px;
+    background: linear-gradient(antiquewhite, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 470px;
+    height: 140px;
+    border-style: outset;
+    border-width: 0.1px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 5px;
+    vertical-align: middle;
+    text-align: center;
+    font-family: "Rubik Distressed", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #FFB036;
+}
+
+#p2{
+    background-image: url("pictures/picture_four.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+    width: 470px;
+    height: 150px;
+    border-style: outset;
+    border-width: 0.1px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: "Rubik Distressed", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ff0000e1;
+}
+
+#p3{
+    margin-left: auto;
+
+    background-image: url("pictures/picture_three.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    width: 470px;
+    height: 150px;
+    border-style: outset;
+    border-width: 0.1px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: "Rubik Distressed", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ff0000e1;
+}
+
+#p4{
+    background-image: url("pictures/picture_two.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    width: 470px;
+    height: 150px;
+    border-style: outset;
+    border-width: 0.1px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: "Rubik Distressed", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ff0000e1;
+}
+
+.item {
+    margin-top: 50px;
+}
+  
+.photo {
+    width: 260px;
+    height: 260px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 50%;
+}
+  
+.personPhoto {
+    width: auto;
+    height: 100%;
+    margin: 0 auto;
+}
+
